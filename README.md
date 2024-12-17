@@ -20,7 +20,7 @@ A simple project to add and delete products from a database through a user-frien
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-username/MernCrash.git
+   git clone https://github.com/Gangadari11/MernCrash.git
    cd MernCrash
    ```
 
