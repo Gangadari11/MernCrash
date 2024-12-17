@@ -54,14 +54,14 @@ http://localhost:5000
 
 ![image](https://github.com/user-attachments/assets/9906e60a-9bd8-4724-8e63-9df13678f993)
 
-🛠 Future Improvements
+## 🛠 Future Improvements
 Add edit functionality for products.
 Implement user authentication.
 Improve UI/UX design.
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome! Feel free to submit a pull request or open an issue.
 
-📄 License
+## 📄 License
 This project is licensed under the MIT License.
 
