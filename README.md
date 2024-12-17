@@ -1,21 +1,20 @@
 # MernCrash 🛒  
 A simple project to add and delete products from a database through a user-friendly website.  
 
----
 
 ## ✨ Features  
 - Add products to the database.  
 - Delete products easily through the website.  
 - User-friendly interface for quick product management.  
 
----
+
 
 ## 🚀 Tech Stack  
 - **Frontend**: HTML, CSS, JavaScript  
 - **Backend**: Node.js, Express.js  
 - **Database**: MongoDB  
 
----
+
 
 ## 🔧 Setup Instructions  
 
@@ -23,26 +22,30 @@ A simple project to add and delete products from a database through a user-frien
    ```bash
    git clone https://github.com/your-username/MernCrash.git
    cd MernCrash
-Install Dependencies
+   ```
+
+## Install Dependencies
 Navigate to the project folder and install the required dependencies:
 
 ```bash
 npm install
+```
 
-Setup MongoDB
+### Setup MongoDB
 
-Create a MongoDB database.
-Add your MongoDB connection string to the project as an environment variable in a .env file:
+* Create a MongoDB database.
+* Add your MongoDB connection string to the project as an environment variable in a .env file:
 
-MONGO_URI=your-mongodb-connection-string
+* MONGO_URI=your-mongodb-connection-string
 
-Run the Project
+### Run the Project
 Start the backend server:
 
 ```bash
  npm start
+```
 
-Access the Website
+### Access the Website
 Open your browser and visit:
 
 
